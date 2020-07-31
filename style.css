@@ -1,0 +1,29 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 2em;
+  background-color: #eff5f5;
+}
+
+h1 {
+  font-style: bold;
+  color: #334d00;
+  font-family: "Pristina", serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2em; 
+  font-family: "Cambria", serif;
+  color: #4d3319;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
